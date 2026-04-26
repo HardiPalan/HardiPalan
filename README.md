@@ -16,7 +16,7 @@
 
 * **Languages:** SQL, Python
 * **Data Warehousing:** Snowflake, BigQuery, PostgreSQL, MySQL
-* **BI Tools:** Power BI, Apache Superset, Metabase, Looker Studio
+* **BI Tools:** Apache Superset, Power BI, Metabase, Looker Studio
 * **Data Engineering:** dbt, Cloud Run, ETL Pipelines
 
 ---
